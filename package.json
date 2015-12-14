@@ -1,0 +1,23 @@
+{
+  "name": "simple-locker",
+  "version": "0.0.1",
+  "description": "Very simple module for managing locked resource in a synchronous manner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hillmanov/simple-locker.git"
+  },
+  "author": "Scott Hillman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hillmanov/simple-locker/issues"
+  },
+  "homepage": "https://github.com/hillmanov/simple-locker"
+}
